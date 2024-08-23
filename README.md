@@ -2,13 +2,15 @@
 
 ## Project Overview
 
-This project aims to predict climate conditions at Gala Airport (SBGL) using Recurrent Neural Networks (RNNs). The goal is to leverage historical weather data to forecast future climate conditions. The project is implemented using Jupyter Notebooks and demonstrates the application of RNN models for time-series forecasting.
+This project aims to predict climate conditions at Galeão Airport (SBGL) using Recurrent Neural Networks (RNNs). The goal is to leverage historical weather data to forecast future climate conditions. The project is implemented using Jupyter Notebooks and demonstrates the application of RNN models for time-series forecasting.
+
+I aimed to build a complete Data Science project from data collection to predictive modelling.
 
 ## Files Included
 
 - **`SBGL_Prediction.ipynb`**: This Jupyter Notebook contains the implementation of the RNN model used for climate prediction. It includes data preprocessing, model training, evaluation, and prediction.
 
-- **`SBGL_Weather_DATA.ipynb`**: This Jupyter Notebook provides an overview of the dataset used in the project. It includes data loading, exploration, and preprocessing steps.
+- **`SBGL_Weather_DATA.ipynb`**: This Jupyter Notebook provides an overview of the dataset used in the project. It includes data loading, exploration, and preprocessing steps, it is a complete data extraction pipeline.
 
 ## Dataset
 
